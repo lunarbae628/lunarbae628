@@ -1,16 +1,25 @@
-## Hi there 👋
+##### 🛠 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=flat-square&logo=Spring%20Boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+</p>
 
-<!--
-**lunarbae628/lunarbae628** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#####  📊 GitHub Stats
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lunarbae628&show_icons=true&theme=transparent" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunarbae628&layout=compact" />
+</p>
 
-Here are some ideas to get you started:
+#####  📚 Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - **Coventry University** — B.Sc. Cyber Security (2019 - 2022)
+ - **프로그래머스 데브코스** - 클라우드 기반 백엔드 엔지니어링(5기) (2025.03 - 2025.08)
+
+
+##### 🔗  More about me
+<p align="left">
+  <a href="https://velog.io/@tech_bae">
+    <img src="https://velog-readme-stats.vercel.app/api/badge?name=tech_bae" />
+  </a>
+</p>
